@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="go_to_profile">Go To Profile</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="confirm_password">Confirm password:</string>
+
+    <string name="enter_username">Enter username</string>
+
+
+    <string name="image">image</string>
+    <string name="enter_song_name">Enter song name</string>
+    <string name="image2">image 2</string>
+    <string name="save_changes">Save changes</string>
+    <string name="welcome_to_soundbank">WELCOME TO SOUNDBANK</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register!</string>
+    <string name="enter_email_main">Enter email</string>
+    <string name="enter_password_main">Enter password</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="fast_rewind_button">fast_rewind_button</string>
+
+    <string name="fast_forward_button">fast_forward_button</string>
+    <string name="play_button">play_button</string>
+    <string name="cover_art">TODO</string>
+    <string name="register_activity">REGISTER</string>
+    <string name="player">play_button</string>
+    <string name="pause_button">pause_button</string>
+    <string name="register_welcome">REGISTER</string>
+    <string name="enter_email_register">Enter email</string>
+    <string name="enter_password_register">Enter password</string>
+    <string name="confirm_password_register">Confirm password</string>
+</resources>
